@@ -1,2 +1,2 @@
 // Write your solution here!
-const primeNumbers = 
+const append = ["Milo", "Otis", "Garfield"];
